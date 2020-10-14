@@ -9,9 +9,11 @@ The IPL is the most-attended cricket league in the world and in 2014 ranked sixt
 I used scrapy framework for creating a web spider for extracting IPL statistics from espncricinfo.com
 This website allows web scraping with delay of 15 seconds between requests.
 
-I have made 2 scripts for extracting IPL data.\n
-1st script (scrape_match_detail.py) retrieves match results and season summary.\n
-2nd script (scrape_each_match.py) can be used for retrieving in-depth details of each match. \n\n
+I have made 2 scripts for extracting IPL data.
+
+1st script (scrape_match_detail.py) retrieves match results and season summary.
+
+2nd script (scrape_each_match.py) can be used for retrieving in-depth details of each match.
 
 For running use below command
 scrapy runspider -o output_file.csv scrape_match_details.py
