@@ -14,4 +14,8 @@ I have made 2 scripts for extracting IPL data.
 2nd script (scrape_each_match.py) can be used for retrieving in-depth details of each match. 
 
 For running use below command
-scrapy runspider -o <output csv file> scrape_match_details.py
+scrapy runspider -o output_file.csv scrape_match_details.py
+scrape_each_match.py can be executed like any other pytho script using IDE.
+
+
+## EDA
