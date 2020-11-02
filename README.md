@@ -27,5 +27,5 @@ scrape_each_match.py can be executed like any other pytho script using IDE.
 
 After retrieving data from espncricinfo.com, comes EDA. 
 I have tried to cover analysis for seasons, teams, host cities, players and Winning statistics.
-Some of the teams went through name changes, some teams were involved in only 1 season, some teams were ceased to exist, some started their campaign later than others.
+Some of the teams went through name changes, some teams were involved in only 1 season, some teams ceased to exist, some started their campaign later than others.
 I also tried to check relation between winning toss and match outcome.
