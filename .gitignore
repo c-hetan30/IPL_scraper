@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Some test files
+*ignore*
+
 # Distribution / packaging
 .Python
 build/
